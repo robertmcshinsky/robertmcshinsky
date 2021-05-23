@@ -1,16 +1,19 @@
-### Hi there 👋
+![Alt Text](robert-m.gif)
 
-<!--
-**robertmcshinsky/robertmcshinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-Here are some ideas to get you started:
+# First Draft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <i class="fa fa-instagram fa-5x"></i> <i class="fa fa-facebook fa-5x"></i> <i class="fa fa-linkedin fa-5x"></i>
+
+## Languages
+
+<i class="fa fa-html5 fa-5x"></i>
+<i class="fa fa-css3 fa-5x"></i>
+<i class="fa fa-js fa-5x"></i>
+<i class="fa fa-database fa-5x"></i>
+<i class="fa fa-server fa-5x"></i>
+
+## About Me
+
+## Contact Me
